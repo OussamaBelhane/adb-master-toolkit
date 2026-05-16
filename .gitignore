@@ -1,0 +1,17 @@
+# Multi-media captures
+screenshot_*.png
+video_*.mp4
+screenshot.png
+video.mp4
+*.png
+*.PNG
+*.jpg
+*.jpeg
+
+# ADB logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
